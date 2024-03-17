@@ -19,7 +19,7 @@ Clientes que pagam as suas faturas no boleto cancelam mais
 * Criar incentivo para os clientes a cada mês
   * Oferecer serviços adicionais gratuitamente ou por um preço simbólico
   * Comparar os preços dos nossos planos com os da concorrència e ajustá-los
-* Criar incentivo para os clientes migrarem para as formas de pagamento que têm menor taxa de cancelamento
+* Criar incentivo para os clientes migrarem para as formas de pagamento que têm menor taxa de cancelamento.
 
   #### Veja o Gráfico
 
