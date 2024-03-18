@@ -23,5 +23,11 @@ Clientes que pagam as suas faturas no boleto cancelam mais
 
   #### Veja o Gráfico
 
-  ![newplot](https://github.com/ewertondrigues02/Analise-de-Dados-Empresa-de-Telecomunicacao/assets/106437473/93eda30a-d36e-4251-bb26-5b87da29d74f)
+  ![analise empresa telecomunicacao- completo](https://github.com/ewertondrigues02/Analise-de-Dados-Empresa-de-Telecomunicacao/assets/106437473/571e2c9f-8e4f-43a4-ab23-7c201000adff)
+
+  #### Interaja com o Gráfico
+
+  Clique no link para interagir: https://app.powerbi.com/groups/me/reports/61c26a43-aecf-431e-b5e4-912c92701af7?ctid=da49a844-e2e3-40af-86a6-c3819d704f49&pbi_source=linkShare
+
+
 
